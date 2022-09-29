@@ -10,3 +10,6 @@ No i pewno widzisz go w innym kolorze niż reszta programu. Widzisz?
 
 print("Witaj świecie!")
 
+a = input("Podaj swoje imię: ")
+
+print(f"Witaj {a}")
